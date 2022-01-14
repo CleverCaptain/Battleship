@@ -9,7 +9,7 @@ Project from hyperskill.org on Battlship
 - Java 16 was used to compile and run this code
 
 ## Usage
-- First Player 1 sets up his/her ships and gives the 
+- First Player 1 sets up his/her ships
+- Then player 2 sets up his/her ships (no peeking!)
+- Then each player takes turn to guess and attack opponents ship
 
-
-This readme is incomplete
